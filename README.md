@@ -10,7 +10,7 @@ Syntax highlighting and code intellisense(comming soon) for ▲ [vercel](https:/
 
 Before                     | After 
 :-------------------------:|:-------------------------:
-![code_before](https://user-images.githubusercontent.com/14012511/141645603-4c48d0f8-d350-447d-8bf4-20b11d738e03.png) | ![code_after](https://user-images.githubusercontent.com/14012511/141645640-cd77350d-ab6a-4637-b744-521431a6ad45.png)
+![code_before](https://user-images.githubusercontent.com/14012511/141645937-4497eecd-ed68-4a5b-979c-ff370ae2fb18.png) | ![code_after](https://user-images.githubusercontent.com/14012511/141645640-cd77350d-ab6a-4637-b744-521431a6ad45.png)
 
 ## Roadmap
 
