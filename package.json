@@ -1,19 +1,38 @@
 {
     "name": "vscode-styled-jsx",
-    "displayName": "vscode-styled-jsx",
-    "description": "Syntax highlighting for styled-jsx",
+    "displayName": "styled-jsx",
+    "description": "styled-jsx syntax highlight and code intellisense",
     "version": "2.0.0",
     "publisher": "blanu",
+    "icon": "assets/logo.png",
     "engines": {
         "vscode": "^1.26.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/iFwu/vscode-styled-jsx"
+        "url": "https://github.com/iChenLei/vscode-styled-jsx"
     },
     "categories": [
         "Programming Languages"
     ],
+    "keywords": [
+        "styled-jsx",
+        "styled-components",
+        "emotion",
+        "jsx",
+        "syntax",
+        "highlight",
+        "highlighting",
+        "css-in-js",
+        "zeit",
+        "vercel"
+    ],
+    "scripts": {
+        "build:vsix": "npx vsce package"
+    },
+    "devDependencies": {
+        "vsce": "^2.3.0"
+    },
     "contributes": {
         "languages": [
             {

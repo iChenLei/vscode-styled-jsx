@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 View documentation
+    url: https://github.com/vercel/styled-jsx/blob/beta/readme.md
+    about: Official styled-jsx documentation    
+  - name: ❓ StackOverflow
+    url: https://stackoverflow.com/questions/tagged/styled-jsx
+    about: Ask question or find answers on Stack overflow
