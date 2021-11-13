@@ -1,13 +1,16 @@
 # vscode-styled-jsx
 
 [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/blanu.vscode-styled-jsx?color=brightgreen&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/ichenlei/vscode-styled-jsx/pulse)
 ![Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/blanu.vscode-styled-jsx)
 ![Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/blanu.vscode-styled-jsx)
 ![Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/blanu.vscode-styled-jsx)
 
-Syntax highlighting and code intellisense for ▲ Vercel's [styled-jsx](https://github.com/vercel/styled-jsx)
+Syntax highlighting and code intellisense(comming soon) for ▲ [vercel](https://github.com/vercel)'s [styled-jsx](https://github.com/vercel/styled-jsx)
 
-<img src="https://raw.githubusercontent.com/iFwu/vscode-styled-jsx/master/code.png" width="550">
+Before                     | After 
+:-------------------------:|:-------------------------:
+![code_before](https://user-images.githubusercontent.com/14012511/141645603-4c48d0f8-d350-447d-8bf4-20b11d738e03.png) | ![code_after](https://user-images.githubusercontent.com/14012511/141645640-cd77350d-ab6a-4637-b744-521431a6ad45.png)
 
 ## Roadmap
 
@@ -17,6 +20,6 @@ Syntax highlighting and code intellisense for ▲ Vercel's [styled-jsx](https://
 
 ## LICENSE
 
-The MIT License (MIT)
-Copyright © 2021-present [Lei Chen](https://github.com/iChenLei)
+The MIT License (MIT) <br/>
+Copyright © 2021-present [Lei Chen](https://github.com/iChenLei) <br/>
 Copyright © 2018-2020 Graham Clark, Julien Poissonnier, [Xiao Fu](https://github.com/iFwu)
