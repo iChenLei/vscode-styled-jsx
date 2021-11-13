@@ -1,7 +1,6 @@
 # vscode-styled-jsx
 
 [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/blanu.vscode-styled-jsx?color=brightgreen&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/ichenlei/vscode-styled-jsx/pulse)
 ![Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/blanu.vscode-styled-jsx)
 ![Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/blanu.vscode-styled-jsx)
 ![Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/blanu.vscode-styled-jsx)
